@@ -24,11 +24,14 @@ button {
   justify-content: center;
   align-items: center;
   transition: 0.4s;
+  box-shadow: 5px 5px 10px #395169;  
 }
 
 button:hover {
-  background-color: #102f5e;
+  background-color: #404d61;
   color: #fff;
+  text-transform: uppercase;
+  
 }
 
 button:hover > i {
